@@ -132,7 +132,7 @@ normal"></b></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-fb.[com]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="http://www.cs.columbia.edu/~rasooli/res10.pdf" style="color:red">CV</a> (Updated: 1 September 2017)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 23 December 2018)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -178,6 +178,51 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
+<li><p><b><a href="../files/thesis.pdf">Cross-Lingual Transfer of Natural Language Processing Systems</a></b><br />
+<b>Mohammad Sadegh Rasooli</b>.<br /> <em> PhD Thesis, Columbia Univeristy, 2018.</em> <small><a href="javascript:ReplaceDivs(&quot;thesis_abstract&quot;, &quot;thesis&quot;,&quot;thesis_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;thesis_text&quot;, &quot;thesis_b&quot;,&quot;thesis&quot;);">[bibtex]</a></small>
+
+</p><div name="thesis" id="thesis" current_content="" style="display:block">
+</div><div name="thesis_b" id="thesis_b" current_content="" style="display:block">
+</div>
+
+<div name="thesis_text" id="thesis_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+@PhdThesis{rasoolithesis,
+  author =       {Mohammad Sadegh Rasooli},
+  title = {Cross-Lingual Transfer of Natural Language Processing Systems},
+  school =       {Columbia University},
+  year =         {2018},
+  address =      {New York},
+  month =        {December},
+}   
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="thesis_abstract" id="thesis_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">
+Accurate natural language processing systems rely heavily on annotated datasets. In the absence of such datasets, transfer methods can help to develop a model by transferring annotations from one or more rich-resource languages to the target language of interest. These methods are generally divided into two approaches: 1) annotation projection from translation data, aka parallel data, using supervised models in rich-resource languages, and 2) direct model transfer from annotated datasets in rich-resource languages.<br>
+
+In this thesis, we demonstrate different methods for transfer of dependency parsers and sentiment analysis systems. We propose an annotation projection method that performs well in the scenarios for which a large amount of in-domain parallel data is available. We also propose a method which is a combination of annotation projection and direct transfer that can leverage a minimal amount of information from a small out-of-domain parallel dataset to develop highly accurate transfer models. Furthermore, we propose an unsupervised syntactic reordering model to improve the accuracy of dependency parser transfer for non-European languages. Finally, we conduct a diverse set of experiments for the transfer of sentiment analysis systems in different data settings.<br>
+
+A summary of our contributions are as follows:<br>
+
+• We develop accurate dependency parsers using parallel text in an annotation projection framework. We make use of the fact that the density of word alignments is
+a valuable indicator of reliability in annotation projection.<br>
+
+• We develop accurate dependency parsers in the absence of a large amount of parallel data. We use the Bible data, which is in orders of magnitude smaller than a conventional parallel dataset, to provide minimal cues for creating cross-lingual word representations. Our model is also capable of boosting the performance of annotation projection with a large amount of parallel data. Our model develops cross-lingual word representations for going beyond the traditional delexicalized direct transfer methods. Moreover, we propose a simple but effective word translation approach that brings in explicit lexical features from the target language in our direct transfer method.<br>
+
+• We develop different syntactic reordering models that can change the source tree- banks in rich-resource languages, thus preventing learning a wrong model for a non-related language. Our experimental results show substantial improvements over non-European languages.<br>
+
+• We develop transfer methods for sentiment analysis in different data availability scenarios. We show that we can leverage cross-lingual word embeddings to create accurate sentiment analysis systems in the absence of annotated data in the target language of interest.<br>
+
+We believe that the novelties that we introduce in this thesis indicate the usefulness of transfer methods. This is appealing in practice, especially since we suggest eliminating the requirement for annotating new datasets for low-resource languages which is expensive, if not impossible, to obtain.
+ </p>
+</blockquote>
+</div>
       <li><p><b><a href="https://arxiv.org/abs/1803.04291">Entity-Aware Language Model as an Unsupervised Reranker</a></b><br>
 <b>Mohammad Sadegh Rasooli</b>, and Sarangarajan Parthasarathy.<br> <em> INTERSPEECH 2018.</em> <small><a href="javascript:ReplaceDivs(&quot;interspeech18_abstract&quot;, &quot;interspeech18&quot;,&quot;interspeech18_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;interspeech18_text&quot;, &quot;interspeech18_b&quot;,&quot;interspeech18&quot;);">[bibtex]</a></small>
 
