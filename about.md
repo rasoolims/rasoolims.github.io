@@ -132,7 +132,7 @@ normal"></b></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-fb.[com]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 23 December 2018)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 13 March 2019)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -178,8 +178,32 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
+ <li><p><b><a href="https://rasoolims.github.io/about/">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
+<b>Mohammad Sadegh Rasooli</b>, and Michael Collins.<br> <em> NAACL 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;naacl19_abstract&quot;, &quot;naacl19&quot;,&quot;naacl19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;naacl19_b&quot;,&quot;naacl19&quot;);">[bibtex]</a></small>
+
+</p><div name="naacl19" id="naacl19" current_content="" style="display:block">
+</div><div name="naacl19_b" id="naacl19_b" current_content="" style="display:block">
+</div>
+
+<div name="naacl19_text" id="naacl19_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+...
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="naacl19_abstract" id="naacl19_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe a cross-lingual transfer method for dependency parsing that takes into account the problem of word order differences between source and target languages. Our model only relies on the Bible, a considerably smaller parallel data than the commonly used parallel data in transfer methods. We use the concatenation of projected trees from the Bible corpus, and the gold-standard treebanks in multiple source languages along with cross-lingual word representations. We demonstrate that reordering the source treebanks before training on them for a target language improves the accuracy of languages outside the European language family. Our experiments on 68 treebanks (38 languages) in the Universal Dependencies corpus achieve a high accuracy for all languages. Among them, our experiments on 16 treebanks of 12 non-European languages achieve an average UAS absolute improvement of 3.3% over a  state-of-the-art method. 
+ </p>
+</blockquote>
+</div>
+
+
 <li><p><b><a href="../files/thesis.pdf">Cross-Lingual Transfer of Natural Language Processing Systems</a></b><br />
-<b>Mohammad Sadegh Rasooli</b>.<br /> <em> PhD Thesis, Columbia Univeristy, 2018.</em> <small><a href="javascript:ReplaceDivs(&quot;thesis_abstract&quot;, &quot;thesis&quot;,&quot;thesis_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;thesis_text&quot;, &quot;thesis_b&quot;,&quot;thesis&quot;);">[bibtex]</a></small>
+<b>Mohammad Sadegh Rasooli</b>.<br /> <em> PhD Thesis, Columbia Univeristy, 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;thesis_abstract&quot;, &quot;thesis&quot;,&quot;thesis_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;thesis_text&quot;, &quot;thesis_b&quot;,&quot;thesis&quot;);">[bibtex]</a></small>
 
 </p><div name="thesis" id="thesis" current_content="" style="display:block">
 </div><div name="thesis_b" id="thesis_b" current_content="" style="display:block">
