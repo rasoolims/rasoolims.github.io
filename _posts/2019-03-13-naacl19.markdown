@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2018-11-21 22:03:21 -0800
+title:  "Some notes about Cross-lingual transfer of syntactic structures"
+date:   2019-03-13 12:03:21 -0800
 categories: jekyll update
 ---
-Hello World!
+
+# Some notes about Cross-lingual transfer of syntactic structures
+
+#todo
+
 
 <div id="disqus_thread"></div>
 <script>

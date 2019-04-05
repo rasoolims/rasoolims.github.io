@@ -132,7 +132,7 @@ normal"></b></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-fb.[com]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 13 March 2019)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 5 April 2019)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -178,7 +178,7 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
- <li><p><b><a href="https://rasoolims.github.io/about/">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
+ <li><p><b><a href="https://arxiv.org/pdf/1903.05683.pdf">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
 <b>Mohammad Sadegh Rasooli</b>, and Michael Collins.<br> <em> NAACL 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;naacl19_abstract&quot;, &quot;naacl19&quot;,&quot;naacl19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;naacl19_b&quot;,&quot;naacl19&quot;);">[bibtex]</a></small>
 
 </p><div name="naacl19" id="naacl19" current_content="" style="display:block">
@@ -197,6 +197,30 @@ ul{
 <div name="naacl19_abstract" id="naacl19_abstract" style="display:none">
 <blockquote>
 <p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe a cross-lingual transfer method for dependency parsing that takes into account the problem of word order differences between source and target languages. Our model only relies on the Bible, a considerably smaller parallel data than the commonly used parallel data in transfer methods. We use the concatenation of projected trees from the Bible corpus, and the gold-standard treebanks in multiple source languages along with cross-lingual word representations. We demonstrate that reordering the source treebanks before training on them for a target language improves the accuracy of languages outside the European language family. Our experiments on 68 treebanks (38 languages) in the Universal Dependencies corpus achieve a high accuracy for all languages. Among them, our experiments on 16 treebanks of 12 non-European languages achieve an average UAS absolute improvement of 3.3% over a  state-of-the-art method. 
+ </p>
+</blockquote>
+</div>
+
+<li><p><b><a href="rasooli.github.io/about">Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic
+  Roles</a></b><br>
+Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br><em> IWCS 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;iwcs19_abstract&quot;, &quot;iwcs19&quot;,&quot;iwcs19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;iwcs19_text&quot;, &quot;iwcs19_b&quot;,&quot;iwcs19&quot;);">[bibtex]</a></small>
+
+</p><div name="iwcs19" id="iwcs19" current_content="" style="display:block">
+</div><div name="iwcs19_b" id="iwcs19_b" current_content="" style="display:block">
+</div>
+
+<div name="iwcs19_text" id="iwcs19_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+...
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="iwcs19_abstract" id="iwcs19_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">   We describe a transfer method based on annotation projection to develop a dependency-based semantic role labeling system for languages for which no supervised linguistic information other than parallel data is available. Unlike previous work that presumes the availability of supervised features such as lemmas, part-of-speech tags, and dependency parse trees, we only make use of word and character features. Our deep model considers using character-based representations as well as unsupervised stem embeddings to alleviate the need for supervised features. Our experiments outperform a state-of-the-art method that uses supervised lexico-syntactic features on 6 out of 7 languages in the Universal Proposition Bank. 
  </p>
 </blockquote>
 </div>
