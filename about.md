@@ -127,12 +127,13 @@ normal"></b></p>
 
 
 <p style="color:Maroon;font-size:20px;font-weight:bold;text-align:left;"><b>Mohammad Sadegh Rasooli</b></p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Research Scientist, <a href="https://research.fb.com"><b>Facebook AI</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral Researcher, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;">Former research scientist at <a href="https://research.fb.com"> Facebook AI</a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">PhD of Computer Science, <a  href="http://www.cs.columbia.edu/">Columbia University</a></p>
 
 
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-fb.[com]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: 5 April 2019)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-seas.upenn.[edu]</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: Jan. 2020)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -346,11 +347,10 @@ url="https://doi.org/10.1007/s10590-017-9202-6"
 </blockquote>
 </div>
 
+</a></li><p><a href="https://github.com/rasoolims/senti-lstm"><b></b></a>
 
-</a></li><li><p><a href="https://github.com/rasoolims/senti-lstm"><b></b></a>
 
-
-      <li><p><b><a href="http://aclweb.org/anthology/I17-2003">Transferring Semantic Roles Using Translation and Syntactic Information</a></b><br>
+<li><p><b><a href="http://aclweb.org/anthology/I17-2003">Transferring Semantic Roles Using Translation and Syntactic Information</a></b><br>
 Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> IJCNLP 2017.</em> <small><a href="javascript:ReplaceDivs(&quot;ijcnlp17_abstract&quot;, &quot;ijcnlp17&quot;,&quot;ijcnlp17_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;bib_ijcnlp17_text&quot;, &quot;ijcnlp17_b&quot;,&quot;ijcnlp17&quot;);">[bibtex]</a></small>
 
 </p><div name="ijcnlp17" id="ijcnlp17" current_content="" style="display:block">
