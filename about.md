@@ -127,7 +127,7 @@ normal"></b></p>
 
 
 <p style="color:Maroon;font-size:20px;font-weight:bold;text-align:left;"><b>Mohammad Sadegh Rasooli</b></p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral Researcher, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral Researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">Former research scientist at <a href="https://research.fb.com"> Facebook AI</a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">PhD of Computer Science, <a  href="http://www.cs.columbia.edu/">Columbia University</a></p>
 
@@ -179,7 +179,7 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
- <li><p><b><a href="https://arxiv.org/pdf/1903.05683.pdf">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
+ <li><p><b><a href="https://www.aclweb.org/anthology/N19-1385.pdf">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
 <b>Mohammad Sadegh Rasooli</b>, and Michael Collins.<br> <em> NAACL 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;naacl19_abstract&quot;, &quot;naacl19&quot;,&quot;naacl19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;naacl19_b&quot;,&quot;naacl19&quot;);">[bibtex]</a></small>
 
 </p><div name="naacl19" id="naacl19" current_content="" style="display:block">
@@ -202,8 +202,7 @@ ul{
 </blockquote>
 </div>
 
-<li><p><b><a href="rasooli.github.io/about">Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic
-  Roles</a></b><br>
+<li><p><b><a href="https://www.aclweb.org/anthology/W19-0417.pdf">Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic Roles</a></b><br>
 Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br><em> IWCS 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;iwcs19_abstract&quot;, &quot;iwcs19&quot;,&quot;iwcs19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;iwcs19_text&quot;, &quot;iwcs19_b&quot;,&quot;iwcs19&quot;);">[bibtex]</a></small>
 
 </p><div name="iwcs19" id="iwcs19" current_content="" style="display:block">
@@ -272,7 +271,7 @@ We believe that the novelties that we introduce in this thesis indicate the usef
  </p>
 </blockquote>
 </div>
-      <li><p><b><a href="https://arxiv.org/abs/1803.04291">Entity-Aware Language Model as an Unsupervised Reranker</a></b><br>
+      <li><p><b><a href="https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0062.pdf">Entity-Aware Language Model as an Unsupervised Reranker</a></b><br>
 <b>Mohammad Sadegh Rasooli</b>, and Sarangarajan Parthasarathy.<br> <em> INTERSPEECH 2018.</em> <small><a href="javascript:ReplaceDivs(&quot;interspeech18_abstract&quot;, &quot;interspeech18&quot;,&quot;interspeech18_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;interspeech18_text&quot;, &quot;interspeech18_b&quot;,&quot;interspeech18&quot;);">[bibtex]</a></small>
 
 </p><div name="interspeech18" id="interspeech18" current_content="" style="display:block">
