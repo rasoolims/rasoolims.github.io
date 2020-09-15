@@ -133,7 +133,7 @@ normal"></b></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-seas.upenn.[edu]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: Jan. 2020)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: Sep. 2020)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -179,6 +179,36 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
+  <li><p><b><a href="https://arxiv.org/pdf/2004.14961.pdf">Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies</a></b><br>
+Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_abstract&quot;, &quot;emnlp20&quot;,&quot;emnlp20_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;emnlp20_b&quot;,&quot;emnlp20&quot;);">[bibtex]</a></small>
+
+</p><div name="emnlp20" id="emnlp20" current_content="" style="display:block">
+</div><div name="emnlp20_b" id="emnlp20_b" current_content="" style="display:block">
+</div>
+
+<div name="emnlp20_text" id="emnlp20_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+@misc{aminian2020mutlitask,
+    title={Mutlitask Learning for Cross-Lingual Transfer of Semantic Dependencies},
+    author={Maryam Aminian and Mohammad Sadegh Rasooli and Mona Diab},
+    year={2020},
+    eprint={2004.14961},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="emnlp20_abstract" id="emnlp20_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe a method for developing broad-coverage semantic dependency parsers for languages for which no semantically annotated resource is available. We leverage a multitask learning framework coupled with annotation projection. We use syntactic parsing as the auxiliary task in our multitask setup. Our annotation projection experiments from English to Czech show that our multitask setup yields 3.1% (4.2%) improvement in  labeled F1-score on in-domain (out-of-domain) test set compared to a single-task baseline.
+ </p>
+</blockquote>
+</div>
+
  <li><p><b><a href="https://www.aclweb.org/anthology/N19-1385.pdf">Low-Resource Syntactic Transfer with Unsupervised Source Reordering</a></b><br>
 <b>Mohammad Sadegh Rasooli</b>, and Michael Collins.<br> <em> NAACL 2019.</em> <small><a href="javascript:ReplaceDivs(&quot;naacl19_abstract&quot;, &quot;naacl19&quot;,&quot;naacl19_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;naacl19_b&quot;,&quot;naacl19&quot;);">[bibtex]</a></small>
 
@@ -189,7 +219,21 @@ ul{
 <div name="naacl19_text" id="naacl19_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-...
+@inproceedings{aminian-etal-2019-cross,
+    title = "Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic Roles",
+    author = "Aminian, Maryam  and
+      Rasooli, Mohammad Sadegh  and
+      Diab, Mona",
+    booktitle = "Proceedings of the 13th International Conference on Computational Semantics - Long Papers",
+    month = may,
+    year = "2019",
+    address = "Gothenburg, Sweden",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-0417",
+    doi = "10.18653/v1/W19-0417",
+    pages = "200--210",
+    abstract = "We describe a transfer method based on annotation projection to develop a dependency-based semantic role labeling system for languages for which no supervised linguistic information other than parallel data is available. Unlike previous work that presumes the availability of supervised features such as lemmas, part-of-speech tags, and dependency parse trees, we only make use of word and character features. Our deep model considers using character-based representations as well as unsupervised stem embeddings to alleviate the need for supervised features. Our experiments outperform a state-of-the-art method that uses supervised lexico-syntactic features on 6 out of 7 languages in the Universal Proposition Bank.",
+}
 </p>
 </pre>
 </blockquote>
@@ -212,7 +256,21 @@ Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br><em> IWCS 2019
 <div name="iwcs19_text" id="iwcs19_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-...
+@inproceedings{aminian-etal-2019-cross,
+    title = "Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic Roles",
+    author = "Aminian, Maryam  and
+      Rasooli, Mohammad Sadegh  and
+      Diab, Mona",
+    booktitle = "Proceedings of the 13th International Conference on Computational Semantics - Long Papers",
+    month = may,
+    year = "2019",
+    address = "Gothenburg, Sweden",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-0417",
+    doi = "10.18653/v1/W19-0417",
+    pages = "200--210",
+    abstract = "We describe a transfer method based on annotation projection to develop a dependency-based semantic role labeling system for languages for which no supervised linguistic information other than parallel data is available. Unlike previous work that presumes the availability of supervised features such as lemmas, part-of-speech tags, and dependency parse trees, we only make use of word and character features. Our deep model considers using character-based representations as well as unsupervised stem embeddings to alleviate the need for supervised features. Our experiments outperform a state-of-the-art method that uses supervised lexico-syntactic features on 6 out of 7 languages in the Universal Proposition Bank.",
+}
 </p>
 </pre>
 </blockquote>
