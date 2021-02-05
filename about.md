@@ -435,19 +435,14 @@ We believe that the novelties that we introduce in this thesis indicate the usef
 <div name="interspeech18_text" id="interspeech18_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@article{DBLP:journals/corr/abs-1803-04291,
-  author    = {Mohammad Sadegh Rasooli and
-               Sarangarajan Parthasarathy},
-  title     = {Entity-Aware Language Model as an Unsupervised Reranker},
-  journal   = {CoRR},
-  volume    = {abs/1803.04291},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1803.04291},
-  archivePrefix = {arXiv},
-  eprint    = {1803.04291},
-  timestamp = {Tue, 10 Apr 2018 20:50:05 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1803-04291},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{Rasooli2018,
+  author={Mohammad Sadegh Rasooli and Sarangarajan Parthasarathy},
+  title={Entity-Aware Language Model as an Unsupervised Reranker},
+  year=2018,
+  booktitle={Proc. Interspeech 2018},
+  pages={406--410},
+  doi={10.21437/Interspeech.2018-62},
+  url={http://dx.doi.org/10.21437/Interspeech.2018-62}
 }
 </p>
 </pre>
