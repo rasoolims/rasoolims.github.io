@@ -270,7 +270,7 @@ Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour
 </div>
 
   <li><p><b><a href="https://arxiv.org/pdf/2004.14961.pdf">Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies</a></b><br>
-Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_abstract&quot;, &quot;emnlp20&quot;,&quot;emnlp20_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;naacl19_text&quot;, &quot;emnlp20_b&quot;,&quot;emnlp20&quot;);">[bibtex]</a></small>
+Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_abstract&quot;, &quot;emnlp20&quot;,&quot;emnlp20_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_text&quot;, &quot;emnlp20_b&quot;,&quot;emnlp20&quot;);">[bibtex]</a></small>
 
 </p><div name="emnlp20" id="emnlp20" current_content="" style="display:block">
 </div><div name="emnlp20_b" id="emnlp20_b" current_content="" style="display:block">
@@ -279,13 +279,20 @@ Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 20
 <div name="emnlp20_text" id="emnlp20_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@misc{aminian2020mutlitask,
-    title={Mutlitask Learning for Cross-Lingual Transfer of Semantic Dependencies},
-    author={Maryam Aminian and Mohammad Sadegh Rasooli and Mona Diab},
-    year={2020},
-    eprint={2004.14961},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{aminian-etal-2020-multitask,
+    title = "Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies",
+    author = "Aminian, Maryam  and
+      Rasooli, Mohammad Sadegh  and
+      Diab, Mona",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.663",
+    doi = "10.18653/v1/2020.emnlp-main.663",
+    pages = "8268--8274",
+    abstract = "We describe a method for developing broad-coverage semantic dependency parsers for languages for which no semantically annotated resource is available. We leverage a multitask learning framework coupled with annotation projection. We use syntactic parsing as the auxiliary task in our multitask setup. Our annotation projection experiments from English to Czech show that our multitask setup yields 3.1{\%} (4.2{\%}) improvement in labeled F1-score on in-domain (out-of-domain) test set compared to a single-task baseline.",
 }
 </p>
 </pre>
@@ -294,7 +301,7 @@ Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 20
 
 <div name="emnlp20_abstract" id="emnlp20_abstract" style="display:none">
 <blockquote>
-<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe a method for developing broad-coverage semantic dependency parsers for languages for which no semantically annotated resource is available. We leverage a multitask learning framework coupled with annotation projection. We use syntactic parsing as the auxiliary task in our multitask setup. Our annotation projection experiments from English to Czech show that our multitask setup yields 3.1% (4.2%) improvement in  labeled F1-score on in-domain (out-of-domain) test set compared to a single-task baseline.
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe a method for developing broad-coverage semantic dependency parsers for languages for which no semantically annotated resource is available. We leverage a multitask learning framework coupled with annotation projection. We use syntactic parsing as the auxiliary task in our multitask setup. Our annotation projection experiments from English to Czech show that our multitask setup yields 3.1% (4.2%) improvement in labeled F1-score on in-domain (out-of-domain) test set compared to a single-task baseline.
  </p>
 </blockquote>
 </div>
