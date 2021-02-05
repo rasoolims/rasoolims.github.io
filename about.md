@@ -309,20 +309,19 @@ Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 20
 <div name="naacl19_text" id="naacl19_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@inproceedings{aminian-etal-2019-cross,
-    title = "Cross-Lingual Transfer of Semantic Roles: From Raw Text to Semantic Roles",
-    author = "Aminian, Maryam  and
-      Rasooli, Mohammad Sadegh  and
-      Diab, Mona",
-    booktitle = "Proceedings of the 13th International Conference on Computational Semantics - Long Papers",
-    month = may,
+@inproceedings{rasooli-collins-2019-low,
+    title = "Low-Resource Syntactic Transfer with Unsupervised Source Reordering",
+    author = "Rasooli, Mohammad Sadegh  and
+      Collins, Michael",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
     year = "2019",
-    address = "Gothenburg, Sweden",
+    address = "Minneapolis, Minnesota",
     publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/W19-0417",
-    doi = "10.18653/v1/W19-0417",
-    pages = "200--210",
-    abstract = "We describe a transfer method based on annotation projection to develop a dependency-based semantic role labeling system for languages for which no supervised linguistic information other than parallel data is available. Unlike previous work that presumes the availability of supervised features such as lemmas, part-of-speech tags, and dependency parse trees, we only make use of word and character features. Our deep model considers using character-based representations as well as unsupervised stem embeddings to alleviate the need for supervised features. Our experiments outperform a state-of-the-art method that uses supervised lexico-syntactic features on 6 out of 7 languages in the Universal Proposition Bank.",
+    url = "https://www.aclweb.org/anthology/N19-1385",
+    doi = "10.18653/v1/N19-1385",
+    pages = "3845--3856",
+    abstract = "We describe a cross-lingual transfer method for dependency parsing that takes into account the problem of word order differences between source and target languages. Our model only relies on the Bible, a considerably smaller parallel data than the commonly used parallel data in transfer methods. We use the concatenation of projected trees from the Bible corpus, and the gold-standard treebanks in multiple source languages along with cross-lingual word representations. We demonstrate that reordering the source treebanks before training on them for a target language improves the accuracy of languages outside the European language family. Our experiments on 68 treebanks (38 languages) in the Universal Dependencies corpus achieve a high accuracy for all languages. Among them, our experiments on 16 treebanks of 12 non-European languages achieve an average UAS absolute improvement of 3.3{\%} over a state-of-the-art method.",
 }
 </p>
 </pre>
