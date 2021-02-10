@@ -269,7 +269,7 @@ Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour
 </blockquote>
 </div>
 
-  <li><p><b><a href="https://arxiv.org/pdf/2004.14961.pdf">Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies</a></b><br>
+  <li><p><b><a href="https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf">Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies</a></b><br>
 Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_abstract&quot;, &quot;emnlp20&quot;,&quot;emnlp20_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_text&quot;, &quot;emnlp20_b&quot;,&quot;emnlp20&quot;);">[bibtex]</a></small>
 
 </p><div name="emnlp20" id="emnlp20" current_content="" style="display:block">
