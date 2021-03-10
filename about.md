@@ -179,6 +179,29 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
+      <li><p><b><a href="https://rasoolims.github.io/about/">Cultural and Geographical Influences on Image Translatability of Words across Languages</a></b><br>
+Nikzad Khani, Isidora Chara Tourni, <b>Mohammad Sadegh Rasooli</b>, Chris Callison-Burch and Derry Tanti Wijaya.<br> <em>  NAACL 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;image_trans_abstract&quot;, &quot;image_trans&quot;,&quot;image_trans_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;image_trans_text&quot;, &quot;image_trans_b&quot;,&quot;image_trans&quot;);">[bibtex]</a></small>
+
+</p><div name="image_trans" id="image_trans" current_content="" style="display:block">
+</div><div name="image_trans_b" id="image_trans_b" current_content="" style="display:block">
+</div>
+
+<div name="image_trans_text" id="image_trans_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+tbd
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="image_trans_abstract" id="image_trans_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    Neural Machine Translation (NMT) models have been observed to produce poor translations when there are few/no parallel sentences to train the models. In the absence of parallel data, several approaches have turned to the use of images to learn translations. Since images of words, e.g., \textit{horse} may be unchanged across languages, translations can be identified via images associated with words in different languages that have a high degree of visual similarity. However, translating via images has been shown to improve upon text-only models only marginally. To better understand \textit{when} images are useful for translation, we study \textit{image translatability} of words, which we define as the translatability of words via images, by measuring intra- and inter-cluster similarities of image representations of words that are translations of each other. We find that images of words are not always invariant across languages, and that language pairs with shared culture, meaning having either a common language family, ethnicity or religion, have improved image translatability (i.e., have more similar images for similar words) compared to its converse, regardless of their geographic proximity. In addition, in line with previous works that show images help more in translating concrete words, we found that concrete words have improved image translatability compared to abstract ones.
+ </p>
+</blockquote>
+</div>
+
     <li><p><b><a href="https://arxiv.org/abs/2012.06154">ParsiNLU: A Suite of Language Understanding Challenges for Persian</a></b><br>
 Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, Marzieh Bitaab, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, <b>Mohammad Sadegh Rasooli</b>, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, and Yadollah Yaghoobzadeh.<br> <em>  arXiv:2012.06154, Dec. 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;pnlu_abstract&quot;, &quot;pnlu&quot;,&quot;pnlu_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;pnlu_text&quot;, &quot;pnlu_b&quot;,&quot;pnlu&quot;);">[bibtex]</a></small><small><a href="https://github.com/persiannlp/parsinlu">[code+data]</a></small>
 
