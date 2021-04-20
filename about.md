@@ -127,13 +127,13 @@ normal"></b></p>
 
 
 <p style="color:Maroon;font-size:20px;font-weight:bold;text-align:left;"><b>Mohammad Sadegh Rasooli</b></p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral Researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">Former research scientist at <a href="https://research.fb.com"> Facebook AI</a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">PhD of Computer Science, <a  href="http://www.cs.columbia.edu/">Columbia University</a></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-seas.upenn.[edu]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: Jan. 2021)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: April 2021)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -179,6 +179,38 @@ ul{
 <ul> -->
 <!-- <h3><b>2015</b></h3> -->
 <ul>
+
+    <li><p><b><a href="https://arxiv.org/abs/2104.08384">"Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks</a></b><br>
+<b>Mohammad Sadegh Rasooli</b>, Chris Callison-Burch and Derry Tanti Wijaya.<br> <em>  arXiv:2104.08384, April 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;wikily_abstract&quot;, &quot;wikily&quot;,&quot;wikily_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;wikily_text&quot;, &quot;wikily_b&quot;,&quot;wikily&quot;);">[bibtex]</a></small><small><a href="https://github.com/rasoolims/ImageTranslate">[code]</a></small>
+
+</p><div name="wikily" id="wikily" current_content="" style="display:block">
+</div><div name="wikily_b" id="wikily_b" current_content="" style="display:block">
+</div>
+
+<div name="wikily_text" id="wikily_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+@misc{rasooli2021wikily,
+      title={"Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks}, 
+      author={Mohammad Sadegh Rasooli and Chris Callison-Burch and Derry Tanti Wijaya},
+      year={2021},
+      eprint={2104.08384},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="wikily_abstract" id="wikily_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We present a simple but effective approach for leveraging Wikipedia for neural machine translation as well as cross-lingual tasks of image captioning and dependency parsing without using any direct supervision from external parallel data or supervised models in the target language. We show that first sentences and titles of linked Wikipedia pages, as well as cross-lingual image captions, are strong signals for a seed parallel data to extract bilingual dictionaries and cross-lingual word embeddings for mining parallel text from Wikipedia. Our final model achieves high BLEU scores that are close to or sometimes higher than strong supervised baselines in low-resource languages; e.g. supervised BLEU of 4.0 versus 12.1 from our model in English-to-Kazakh. Moreover, we tailor our wikily translation models to unsupervised image captioning and cross-lingual dependency parser transfer. In image captioning, we train a multi-tasking machine translation and image captioning pipeline for Arabic and English from which the Arabic training data is a wikily translation of the English captioning data. Our captioning results in Arabic are slightly better than that of its supervised model. In dependency parsing, we translate a large amount of monolingual text, and use it as an artificial training data in an annotation projection framework. We show that our model outperforms recent work on cross-lingual transfer of dependency parsers.
+ </p>
+</blockquote>
+</div>
+
+
       <li><p><b><a href="https://rasoolims.github.io/about/">Cultural and Geographical Influences on Image Translatability of Words across Languages</a></b><br>
 Nikzad Khani, Isidora Chara Tourni, <b>Mohammad Sadegh Rasooli</b>, Chris Callison-Burch and Derry Tanti Wijaya.<br> <em>  NAACL 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;image_trans_abstract&quot;, &quot;image_trans&quot;,&quot;image_trans_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;image_trans_text&quot;, &quot;image_trans_b&quot;,&quot;image_trans&quot;);">[bibtex]</a></small>
 
