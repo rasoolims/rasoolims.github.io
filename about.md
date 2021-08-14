@@ -127,7 +127,8 @@ normal"></b></p>
 
 
 <p style="color:Maroon;font-size:20px;font-weight:bold;text-align:left;"><b>Mohammad Sadegh Rasooli</b></p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Senior applied scientist</b>, <a href="https://www.microsoft.com/en-us/research/"><b>Speech and Language Group at Microsoft, Mountain View, CA</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Former postdoctoral researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">Former research scientist at <a href="https://research.fb.com"> Facebook AI</a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">PhD of Computer Science, <a  href="http://www.cs.columbia.edu/">Columbia University</a></p>
 
