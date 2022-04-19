@@ -127,13 +127,14 @@ normal"></b></p>
 
 
 <p style="color:Maroon;font-size:20px;font-weight:bold;text-align:left;"><b>Mohammad Sadegh Rasooli</b></p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Postdoctoral researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Senior applied scientist</b>, <a href="https://www.microsoft.com/en-us/research/"><b>Speech and Language Group at Microsoft, Mountain View, CA</b></a>
+  <p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><b>Former postdoctoral researcher</b>, <a href="https://www.cis.upenn.edu/"><b>University of Pennsylvania</b></a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">Former research scientist at <a href="https://research.fb.com"> Facebook AI</a>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">PhD of Computer Science, <a  href="http://www.cs.columbia.edu/">Columbia University</a></p>
 
 
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;">lastname-at-seas.upenn.[edu]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: April 2021)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;">mrasooli-at-microsoft.[com]</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: April 2022)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
@@ -180,8 +181,40 @@ ul{
 <!-- <h3><b>2015</b></h3> -->
 <ul>
 
-    <li><p><b><a href="https://arxiv.org/abs/2104.08384">"Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks</a></b><br>
-<b>Mohammad Sadegh Rasooli</b>, Chris Callison-Burch and Derry Tanti Wijaya.<br> <em>  arXiv:2104.08384, April 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;wikily_abstract&quot;, &quot;wikily&quot;,&quot;wikily_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;wikily_text&quot;, &quot;wikily_b&quot;,&quot;wikily&quot;);">[bibtex]</a></small><small><a href="https://github.com/rasoolims/ImageTranslate">[code]</a></small>
+
+    <li><p><b><a href="https://arxiv.org/abs/2009.10205">The Persian Dependency Treebank Made Universal</a></b><br>
+<b>Mohammad Sadegh Rasooli</b>, Pegah Safari, Amirsaeid Moloodi, and Alireza Nourian.<br> <em>  LREC 2022.</em> <small><a href="javascript:ReplaceDivs(&quot;depuniv_abstract&quot;, &quot;depuniv&quot;,&quot;depuniv_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;depuniv_text&quot;, &quot;depuniv_b&quot;,&quot;depuniv&quot;);">[bibtex]</a></small><small><a href="https://github.com/phsfr/UD_Persian-PerDT">[code+data]</a></small>
+
+</p><div name="depuniv" id="depuniv" current_content="" style="display:block">
+</div><div name="depuniv_b" id="depuniv_b" current_content="" style="display:block">
+</div>
+
+<div name="depuniv_text" id="depuniv_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+@misc{rasooli2020persian,
+    title={The Persian Dependency Treebank Made Universal},
+    author={Mohammad Sadegh Rasooli and Pegah Safari and Amirsaeid Moloodi and Alireza Nourian},
+    year={2020},
+    eprint={2009.10205},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="depuniv_abstract" id="depuniv_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe an automatic method for converting the Persian Dependency Treebank (Rasooli et al, 2013) to Universal Dependencies. This treebank contains 29107 sentences. Our experiments along with manual linguistic analysis show that our data is more compatible with Universal Dependencies than the Uppsala Persian Universal Dependency Treebank (Seraji et al., 2016), and is larger in size and more diverse in vocabulary. Our data brings in a labeled attachment F-score of 85.2 in supervised parsing. Our delexicalized Persian-to-English parser transfer experiments show that a parsing model trained on our data is ~2% absolutely more accurate than that of Seraji et al. (2016) in terms of labeled attachment score.
+ </p>
+</blockquote>
+</div>
+
+
+    <li><p><b><a href="https://aclanthology.org/2021.emnlp-main.124.pdf">"Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks</a></b><br>
+<b>Mohammad Sadegh Rasooli</b>, Chris Callison-Burch and Derry Tanti Wijaya.<br> <em>  EMNLP 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;wikily_abstract&quot;, &quot;wikily&quot;,&quot;wikily_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;wikily_text&quot;, &quot;wikily_b&quot;,&quot;wikily&quot;);">[bibtex]</a></small><small><a href="https://github.com/rasoolims/ImageTranslate">[code]</a></small>
 
 </p><div name="wikily" id="wikily" current_content="" style="display:block">
 </div><div name="wikily_b" id="wikily_b" current_content="" style="display:block">
@@ -190,13 +223,20 @@ ul{
 <div name="wikily_text" id="wikily_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@misc{rasooli2021wikily,
-      title={"Wikily" Neural Machine Translation Tailored to Cross-Lingual Tasks}, 
-      author={Mohammad Sadegh Rasooli and Chris Callison-Burch and Derry Tanti Wijaya},
-      year={2021},
-      eprint={2104.08384},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{rasooli-etal-2021-wikily,
+    title = "{``}Wikily{''} Supervised Neural Translation Tailored to Cross-Lingual Tasks",
+    author = "Rasooli, Mohammad Sadegh  and
+      Callison-Burch, Chris  and
+      Wijaya, Derry Tanti",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.124",
+    doi = "10.18653/v1/2021.emnlp-main.124",
+    pages = "1655--1670",
+    abstract = "We present a simple but effective approach for leveraging Wikipedia for neural machine translation as well as cross-lingual tasks of image captioning and dependency parsing without using any direct supervision from external parallel data or supervised models in the target language. We show that first sentences and titles of linked Wikipedia pages, as well as cross-lingual image captions, are strong signals for a seed parallel data to extract bilingual dictionaries and cross-lingual word embeddings for mining parallel text from Wikipedia. Our final model achieves high BLEU scores that are close to or sometimes higher than strong \textit{supervised} baselines in low-resource languages; e.g. supervised BLEU of 4.0 versus 12.1 from our model in English-to-Kazakh. Moreover, we tailor our \textit{wikily} translation models to unsupervised image captioning, and cross-lingual dependency parser transfer. In image captioning, we train a multi-tasking machine translation and image captioning pipeline for Arabic and English from which the Arabic training data is a \textit{wikily} translation of the English captioning data. Our captioning results on Arabic are slightly \textit{better} than that of its supervised model. In dependency parsing, we translate a large amount of monolingual text, and use it as an artificial training data in an \textit{annotation projection} framework. We show that our model outperforms recent work on cross-lingual transfer of dependency parsers.",
 }
 </p>
 </pre>
@@ -205,7 +245,7 @@ ul{
 
 <div name="wikily_abstract" id="wikily_abstract" style="display:none">
 <blockquote>
-<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We present a simple but effective approach for leveraging Wikipedia for neural machine translation as well as cross-lingual tasks of image captioning and dependency parsing without using any direct supervision from external parallel data or supervised models in the target language. We show that first sentences and titles of linked Wikipedia pages, as well as cross-lingual image captions, are strong signals for a seed parallel data to extract bilingual dictionaries and cross-lingual word embeddings for mining parallel text from Wikipedia. Our final model achieves high BLEU scores that are close to or sometimes higher than strong supervised baselines in low-resource languages; e.g. supervised BLEU of 4.0 versus 12.1 from our model in English-to-Kazakh. Moreover, we tailor our wikily translation models to unsupervised image captioning and cross-lingual dependency parser transfer. In image captioning, we train a multi-tasking machine translation and image captioning pipeline for Arabic and English from which the Arabic training data is a wikily translation of the English captioning data. Our captioning results in Arabic are slightly better than that of its supervised model. In dependency parsing, we translate a large amount of monolingual text, and use it as an artificial training data in an annotation projection framework. We show that our model outperforms recent work on cross-lingual transfer of dependency parsers.
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We present a simple but effective approach for leveraging Wikipedia for neural machine translation as well as cross-lingual tasks of image captioning and dependency parsing without using any direct supervision from external parallel data or supervised models in the target language. We show that first sentences and titles of linked Wikipedia pages, as well as cross-lingual image captions, are strong signals for a seed parallel data to extract bilingual dictionaries and cross-lingual word embeddings for mining parallel text from Wikipedia. Our final model achieves high BLEU scores that are close to or sometimes higher than strong supervised baselines in low-resource languages; e.g. supervised BLEU of 4.0 versus 12.1 from our model in English-to-Kazakh. Moreover, we tailor our wikily translation models to unsupervised image captioning, and cross-lingual dependency parser transfer. In image captioning, we train a multi-tasking machine translation and image captioning pipeline for Arabic and English from which the Arabic training data is a wikily translation of the English captioning data. Our captioning results on Arabic are slightly better than that of its supervised model. In dependency parsing, we translate a large amount of monolingual text, and use it as an artificial training data in an annotation projection framework. We show that our model outperforms recent work on cross-lingual transfer of dependency parsers.
  </p>
 </blockquote>
 </div>
@@ -235,7 +275,7 @@ tbd
 </div>
 
     <li><p><b><a href="https://arxiv.org/abs/2012.06154">ParsiNLU: A Suite of Language Understanding Challenges for Persian</a></b><br>
-Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, Marzieh Bitaab, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, <b>Mohammad Sadegh Rasooli</b>, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, and Yadollah Yaghoobzadeh.<br> <em>  arXiv:2012.06154, Dec. 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;pnlu_abstract&quot;, &quot;pnlu&quot;,&quot;pnlu_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;pnlu_text&quot;, &quot;pnlu_b&quot;,&quot;pnlu&quot;);">[bibtex]</a></small><small><a href="https://github.com/persiannlp/parsinlu">[code+data]</a></small>
+Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, Marzieh Bitaab, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, <b>Mohammad Sadegh Rasooli</b>, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, and Yadollah Yaghoobzadeh.<br> <em> Transactions of the ACL, 9:1147–1162, 2021.</em> <small><a href="javascript:ReplaceDivs(&quot;pnlu_abstract&quot;, &quot;pnlu&quot;,&quot;pnlu_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;pnlu_text&quot;, &quot;pnlu_b&quot;,&quot;pnlu&quot;);">[bibtex]</a></small><small><a href="https://github.com/persiannlp/parsinlu">[code+data]</a></small>
 
 </p><div name="pnlu" id="pnlu" current_content="" style="display:block">
 </div><div name="pnlu_b" id="pnlu_b" current_content="" style="display:block">
@@ -244,13 +284,42 @@ Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour
 <div name="pnlu_text" id="pnlu_text" style="display:none">
 <blockquote>
 <pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@misc{khashabi2020parsinlu,
-      title={ParsiNLU: A Suite of Language Understanding Challenges for Persian}, 
-      author={Daniel Khashabi and Arman Cohan and Siamak Shakeri and Pedram Hosseini and Pouya Pezeshkpour and Malihe Alikhani and Moin Aminnaseri and Marzieh Bitaab and Faeze Brahman and Sarik Ghazarian and Mozhdeh Gheini and Arman Kabiri and Rabeeh Karimi Mahabadi and Omid Memarrast and Ahmadreza Mosallanezhad and Erfan Noury and Shahab Raji and Mohammad Sadegh Rasooli and Sepideh Sadeghi and Erfan Sadeqi Azer and Niloofar Safi Samghabadi and Mahsa Shafaei and Saber Sheybani and Ali Tazarv and Yadollah Yaghoobzadeh},
-      year={2020},
-      eprint={2012.06154},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{khashabi-etal-2021-parsinlu,
+    title = "{P}arsi{NLU}: A Suite of Language Understanding Challenges for {P}ersian",
+    author = "Khashabi, Daniel  and
+      Cohan, Arman  and
+      Shakeri, Siamak  and
+      Hosseini, Pedram  and
+      Pezeshkpour, Pouya  and
+      Alikhani, Malihe  and
+      Aminnaseri, Moin  and
+      Bitaab, Marzieh  and
+      Brahman, Faeze  and
+      Ghazarian, Sarik  and
+      Gheini, Mozhdeh  and
+      Kabiri, Arman  and
+      Mahabagdi, Rabeeh Karimi  and
+      Memarrast, Omid  and
+      Mosallanezhad, Ahmadreza  and
+      Noury, Erfan  and
+      Raji, Shahab  and
+      Rasooli, Mohammad Sadegh  and
+      Sadeghi, Sepideh  and
+      Azer, Erfan Sadeqi  and
+      Samghabadi, Niloofar Safi  and
+      Shafaei, Mahsa  and
+      Sheybani, Saber  and
+      Tazarv, Ali  and
+      Yaghoobzadeh, Yadollah",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "9",
+    year = "2021",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2021.tacl-1.68",
+    doi = "10.1162/tacl_a_00419",
+    pages = "1147--1162",
+    abstract = "Abstract Despite the progress made in recent years in addressing natural language understanding (NLU) challenges, the majority of this progress remains to be concentrated on resource-rich languages like English. This work focuses on Persian language, one of the widely spoken languages in the world, and yet there are few NLU datasets available for this language. The availability of high-quality evaluation datasets is a necessity for reliable assessment of the progress on different NLU tasks and domains. We introduce ParsiNLU, the first benchmark in Persian language that includes a range of language understanding tasks{---}reading comprehension, textual entailment, and so on. These datasets are collected in a multitude of ways, often involving manual annotations by native speakers. This results in over 14.5k new instances across 6 distinct NLU tasks. Additionally, we present the first results on state-of-the-art monolingual and multilingual pre-trained language models on this benchmark and compare them with human performance, which provides valuable insights into our ability to tackle natural language understanding challenges in Persian. We hope ParsiNLU fosters further research and advances in Persian language understanding.1",
 }
 </p>
 </pre>
@@ -294,35 +363,6 @@ Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour
 </blockquote>
 </div>
 
-    <li><p><b><a href="https://arxiv.org/abs/2009.10205">The Persian Dependency Treebank Made Universal</a></b><br>
-<b>Mohammad Sadegh Rasooli</b>, Pegah Safari, Amirsaeid Moloodi, and Alireza Nourian.<br> <em>  arXiv:2009.10205, Sep. 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;depuniv_abstract&quot;, &quot;depuniv&quot;,&quot;depuniv_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;depuniv_text&quot;, &quot;depuniv_b&quot;,&quot;depuniv&quot;);">[bibtex]</a></small><small><a href="https://github.com/phsfr/UD_Persian-PerDT">[code+data]</a></small>
-
-</p><div name="depuniv" id="depuniv" current_content="" style="display:block">
-</div><div name="depuniv_b" id="depuniv_b" current_content="" style="display:block">
-</div>
-
-<div name="depuniv_text" id="depuniv_text" style="display:none">
-<blockquote>
-<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
-@misc{rasooli2020persian,
-    title={The Persian Dependency Treebank Made Universal},
-    author={Mohammad Sadegh Rasooli and Pegah Safari and Amirsaeid Moloodi and Alireza Nourian},
-    year={2020},
-    eprint={2009.10205},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
-}
-</p>
-</pre>
-</blockquote>
-</div>
-
-<div name="depuniv_abstract" id="depuniv_abstract" style="display:none">
-<blockquote>
-<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We describe an automatic method for converting the Persian Dependency Treebank (Rasooli et al, 2013) to Universal Dependencies. This treebank contains 29107 sentences. Our experiments along with manual linguistic analysis show that our data is more compatible with Universal Dependencies than the Uppsala Persian Universal Dependency Treebank (Seraji et al., 2016), and is larger in size and more diverse in vocabulary. Our data brings in a labeled attachment F-score of 85.2 in supervised parsing. Our delexicalized Persian-to-English parser transfer experiments show that a parsing model trained on our data is ~2% absolutely more accurate than that of Seraji et al. (2016) in terms of labeled attachment score.
- </p>
-</blockquote>
-</div>
 
   <li><p><b><a href="https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf">Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies</a></b><br>
 Maryam Aminian, <b>Mohammad Sadegh Rasooli</b>, and Mona Diab.<br> <em> EMNLP 2020.</em> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_abstract&quot;, &quot;emnlp20&quot;,&quot;emnlp20_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;emnlp20_text&quot;, &quot;emnlp20_b&quot;,&quot;emnlp20&quot;);">[bibtex]</a></small>
