@@ -181,8 +181,38 @@ ul{
 <!-- <h3><b>2015</b></h3> -->
 <ul>
 
+  <li><p><b><a href="https://arxiv.org/pdf/2305.17304">External Language Model Integration for Factorized Neural Transducers</a></b><br>
+Michael Levit, Sarangarajan Parthasarathy, Cem Aksoylar, <b>Mohammad Sadegh Rasooli</b>, and Shuangyu Chang.<br> <em>   arXiv:2305.17304, 2023.</em> <small><a href="javascript:ReplaceDivs(&quot;levit_abstract&quot;, &quot;levit&quot;,&quot;levit_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;levit_text&quot;, &quot;levit_b&quot;,&quot;levit&quot;);">[bibtex]</a></small>
+
+</p><div name="levit" id="levit" current_content="" style="display:block">
+</div><div name="levit_b" id="levit_b" current_content="" style="display:block">
+</div>
+
+<div name="levit_text" id="levit_text" style="display:none">
+<blockquote>
+<pre><p style="color:Maroon;font-size:12px;font-weight:bold;text-align:justify;">
+@misc{levit2023external,
+      title={External Language Model Integration for Factorized Neural Transducers}, 
+      author={Michael Levit and Sarangarajan Parthasarathy and Cem Aksoylar and Mohammad Sadegh Rasooli and Shuangyu Chang},
+      year={2023},
+      eprint={2305.17304},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</p>
+</pre>
+</blockquote>
+</div>
+
+<div name="levit_abstract" id="levit_abstract" style="display:none">
+<blockquote>
+<p style="color:#A52A2A;font-size:14px;font-weight:bold;text-align:justify;">    We propose an adaptation method for factorized neural transducers (FNT) with external language models. We demonstrate that both neural and n-gram external LMs add significantly more value when linearly interpolated with predictor output compared to shallow fusion, thus confirming that FNT forces the predictor to act like regular language models. Further, we propose a method to integrate class-based n-gram language models into FNT framework resulting in accuracy gains similar to a hybrid setup. We show average gains of 18% WERR with lexical adaptation across various scenarios and additive gains of up to 60% WERR in one entity-rich scenario through a combination of class-based n-gram and neural LMs.
+ </p>
+</blockquote>
+</div>
+
   <li><p><b><a href="https://arxiv.org/abs/2209.14500">Bidirectional Language Models Are Also Few-shot Learners</a></b><br>
-Ajay Patel, Bryan Li, <b>Mohammad Sadegh Rasooli</b>, Noah Constant, Colin Raffel, Chris Callison-Burch.<br> <em> arXiv:2209.14500, 2022.</em> <small><a href="javascript:ReplaceDivs(&quot;ajp_abstract&quot;, &quot;ajp&quot;,&quot;ajp_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;ajp_text&quot;, &quot;ajp_b&quot;,&quot;ajp&quot;);">[bibtex]</a></small>
+Ajay Patel, Bryan Li, <b>Mohammad Sadegh Rasooli</b>, Noah Constant, Colin Raffel, Chris Callison-Burch.<br> <em> ICLR, 2023.</em> <small><a href="javascript:ReplaceDivs(&quot;ajp_abstract&quot;, &quot;ajp&quot;,&quot;ajp_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;ajp_text&quot;, &quot;ajp_b&quot;,&quot;ajp&quot;);">[bibtex]</a></small>
 
 </p><div name="ajp" id="ajp" current_content="" style="display:block">
 </div><div name="ajp_b" id="ajp_b" current_content="" style="display:block">
@@ -211,8 +241,8 @@ Ajay Patel, Bryan Li, <b>Mohammad Sadegh Rasooli</b>, Noah Constant, Colin Raffe
 </div>
 
 
-<li><p><b><a href="https://arxiv.org/abs/2209.02821">Multilingual Bidirectional Unsupervised Translation Through Multilingual Finetuning and Back-Translation</a></b><br>
-Bryan Li, <b>Mohammad Sadegh Rasooli</b>, Ajay Patel, Chris Callison-Burch.<br> <em>    arXiv:2209.02821, 2022.</em> <small><a href="javascript:ReplaceDivs(&quot;blt_abstract&quot;, &quot;blt&quot;,&quot;blt_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;blt_text&quot;, &quot;blt_b&quot;,&quot;blt&quot;);">[bibtex]</a></small>
+<li><p><b><a href="https://aclanthology.org/2023.loresmt-1.2.pdf">Multilingual Bidirectional Unsupervised Translation Through Multilingual Finetuning and Back-Translation</a></b><br>
+Bryan Li, <b>Mohammad Sadegh Rasooli</b>, Ajay Patel, Chris Callison-Burch.<br> <em>    LoResMT, pp 16-31, 2023.</em> <small><a href="javascript:ReplaceDivs(&quot;blt_abstract&quot;, &quot;blt&quot;,&quot;blt_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;blt_text&quot;, &quot;blt_b&quot;,&quot;blt&quot;);">[bibtex]</a></small>
 
 </p><div name="blt" id="blt" current_content="" style="display:block">
 </div><div name="blt_b" id="blt_b" current_content="" style="display:block">
