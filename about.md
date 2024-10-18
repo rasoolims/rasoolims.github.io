@@ -181,7 +181,7 @@ ul{
 <!-- <h3><b>2015</b></h3> -->
 <ul>
 
-<li><p><b><a href="https://arxiv.org/pdf/2305.17304">External Language Model Integration for Factorized Neural Transducers</a></b><br>
+<li><p><b><a href="https://arxiv.org/abs/2410.13198">Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation</a></b><br>
 Sreyan Ghosh, <b>Mohammad Sadegh Rasooli</b>, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li.  arXiv:2410.13198, 2024.</em> <small><a href="javascript:ReplaceDivs(&quot;gosh_abstract&quot;, &quot;gosh&quot;,&quot;gosh_b&quot;);">[abstract]</a></small> <small><a href="javascript:ReplaceDivs(&quot;gosh_text&quot;, &quot;gosh_b&quot;,&quot;gosh&quot;);">[bibtex]</a></small>
 
 
