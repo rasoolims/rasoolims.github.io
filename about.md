@@ -134,7 +134,7 @@ normal"></b></p>
 
 
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;">mrasooli-at-microsoft.[com]</p>
-<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: April 2022)</p>
+<p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: October 2024)</p>
 
 
 <a href="http://chortkeh-nlp.blog.ir/">
