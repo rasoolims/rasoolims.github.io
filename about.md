@@ -137,7 +137,7 @@ normal"></b></p>
 <p style="color:black;font-size:14px;font-weight:bold;text-align:left;"><a href="../files/CV_SHORT.pdf" style="color:red">CV</a> (Updated: October 2024)</p>
 
 
-<a href="http://chortkeh-nlp.blog.ir/">
+<a href="https://rasoolims.github.io/delsharm/">
 <img width="80" height="40" src="../files/adsBlog.png"></a> <a href="http://www.linkedin.com/pub/mohammad-sadegh-rasooli/57/938/b59">
 <img width="40" height="40" src="../files/Linkedin-Logo.png"> </a> 
    <a href="https://github.com/rasoolims"><img width="40" height="40" src="../files/github.png"></a>
